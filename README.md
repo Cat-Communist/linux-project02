@@ -3,7 +3,7 @@
 
 А вот как вывести _*Hello, World!*_ в C++
 
-\```
+\```C++
 #include <iostream>
 
 int main()
